@@ -2,10 +2,12 @@
 This repository demonstrates python codes which uses keras and tensorflow to decode selective attention from electroencephalography (EEG).
 For more details, read: SINGLE-TRIAL EEG DATA IN COCHLEAR IMPLANT USERS BASED ON DEEP NEURAL NETWORKS, Waldo Nogueira, Hanna Dolhopiatenko. 
 
+
 Two types of decoders were investigated: decoder based on reconstruction of speech ('FCNetwork1min.py', 'FCNetwork10s', 'CNNNetwork10s') and decoder based on decision on locus of attention ('DecissionEEG.py', 'DecissionEnvSpeech.py' and 'DecissionEnvSpeechSum.py').
 
 Original audio (48min, sampling rate=64Hz) and one example of EEG Dataset (48min, sampling rate=64Hz) are provided. 
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 'LoadData'/'LoadData2' - modules which load data.
 
 RECONTRUCTION:
