@@ -7,6 +7,7 @@ Two types of decoders were investigated: decoder based on reconstruction of spee
 Original audio (48min, sampling rate=64Hz) and one example of EEG Dataset (48min, sampling rate=64Hz) are provided. 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Short Description of provided files: 
 
 • 'LoadData'/'LoadData2' - modules which load data.
